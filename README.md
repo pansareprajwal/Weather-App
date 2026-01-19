@@ -89,7 +89,7 @@ Save the file and reload the app — you’re ready to go! 🌤️
 If you'd like to connect or collaborate, feel free to reach out!
 
 * **Name:** Prajwal Pansare 
-* **GitHub:** [@aryan2712sp](https://github.com/pansareprajwal)  
+* **GitHub:** [@prajwalpansare](https://github.com/pansareprajwal)  
 * **Email:** *[pansareprajwal2004@gmail.com]* 
 
 ---
